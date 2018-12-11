@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #fff;
   text-align: left;
   text-shadow: black 5px 5px;
   text-transform: uppercase;
@@ -23,7 +23,7 @@ p.introduccion {
   margin-left: 25%;
   margin-right: 25%;
   padding: 20px;
-  background-color: white;
+  background-color: #fff;
 }
 
 p.tipo1 {
@@ -43,7 +43,7 @@ p.tipo2 {
   margin-left: 50%;
   padding: 5px;
   background-color:#AC7A39;
-  color: white;
+  color: #fff;
 }
 
 p.tipo3 {
@@ -52,5 +52,5 @@ p.tipo3 {
   margin-right: 25%;
   padding: 20px;
   background-color:#004680;
-  color: white;
+  color: #fff;
 }
